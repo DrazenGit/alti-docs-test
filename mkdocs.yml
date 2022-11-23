@@ -1,1 +1,3 @@
 site_name: AltiBiz Docs
+theme:
+    name: readthedocs
