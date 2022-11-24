@@ -3,7 +3,7 @@
 ### Pregled planiranih/neplaniranih resursa
 
 
-![Iskorištenje]([a relative link]/images/iskoristenje.png "Iskoristenje")
+![Iskorištenje](../images/iskoristenje.png "Iskoristenje")
 
 **Put: Poslovanje → Resursi → Iskorištenje**
 
