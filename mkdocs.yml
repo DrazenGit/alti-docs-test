@@ -1,5 +1,4 @@
 site_name: AltiBiz Docs
 theme:
     name: material
-  icon:
-    edit: material/pencil 
+repo_url: https://github.com/squidfunk/mkdocs-material
