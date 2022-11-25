@@ -2,6 +2,10 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+{% github_edit_link %}
+<p>This site is open source. {% github_edit_link "Improve this page" %}</p>
+<p>This site is open source. <a href="{% github_edit_link %}">Improve this page</a></p>
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
