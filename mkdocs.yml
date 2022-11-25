@@ -1,4 +1,6 @@
 site_name: AltiBiz Docs
 theme:
     name: material
-repo_url: https://drazengit.github.io/alti-docs-test/
+repo_url: https://github.com/DrazenGit/alti-docs-test
+repo_name: alti-docs-test
+edit_uri: edit/main/docs/
